@@ -1,0 +1,8 @@
+Page:
+  name: 'Google Home page'
+  uri: 'http://www.google.com/'
+  title: 'Google'
+Components:
+  search:
+      search_field: //input[@id='gbqfq']
+      search_button: //button[@id='gbqfb']
