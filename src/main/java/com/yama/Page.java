@@ -1,12 +1,10 @@
-package com.dt.test.framework.ui;
+package com.yama;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.yaml.snakeyaml.Yaml;
 
-import javax.xml.ws.WebEndpoint;
-import java.io.FileInputStream;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Arrays;

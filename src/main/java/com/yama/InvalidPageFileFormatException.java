@@ -1,4 +1,4 @@
-package com.dt.test.framework.ui;
+package com.yama;
 
 /**
  * Created with IntelliJ IDEA.

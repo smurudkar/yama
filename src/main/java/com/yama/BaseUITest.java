@@ -1,4 +1,4 @@
-package com.dt.test.framework.ui;
+package com.yama;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.BeforeClass;
@@ -18,7 +18,7 @@ public class BaseUITest {
     }
 
     @BeforeClass
-    public void BeforeClassMethod(){
+    public void BeforeClassMethod() throws Exception {
         setupDriver();
     }
 }

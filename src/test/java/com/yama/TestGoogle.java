@@ -1,16 +1,12 @@
-package com.dt.test;
+package com.yama;
 
-import com.dt.test.framework.ui.Page;
+import com.yama.Page;
 import junit.framework.Assert;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.Test;
-
-import java.io.FileNotFoundException;
 
 /**
  * Created with IntelliJ IDEA.
